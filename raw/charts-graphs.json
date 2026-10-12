@@ -1,0 +1,326 @@
+{
+ "category": "Charts & Graphs",
+ "count": 64,
+ "templates": [
+  {
+   "name": "Compare and Contrast Table",
+   "url": "https://www.visme.co/templates/infographics/compare-and-contrast-table-1425294648/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Compare-and-Contrast-Table_full.jpg"
+  },
+  {
+   "name": "Project Management Methodologies Compare and Contrast Infographic",
+   "url": "https://www.visme.co/templates/infographics/project-management-methodologies-compare-and-contrast-infographic-1425294736/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Project-Management-Methodologies-Compare-and-Contrast-Infographic_full.jpg"
+  },
+  {
+   "name": "How to Conduct a Scenario Planning Session Infographic",
+   "url": "https://www.visme.co/templates/infographics/how-to-conduct-a-scenario-planning-session-infographic-1425295430/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_How-to-Conduct-a-Scenario-Planning-Session-Infographic_full.jpg"
+  },
+  {
+   "name": "AI Reporting Tools Diagram",
+   "url": "https://www.visme.co/templates/infographics/ai-reporting-tools-diagram-1425295434/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_AI-Reporting-Tools-Diagram_full.jpg"
+  },
+  {
+   "name": "Predictive Analytics Diagram",
+   "url": "https://www.visme.co/templates/infographics/predictive-analytics-diagram-1425295437/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Predictive-Analytics-Diagram_full.jpg"
+  },
+  {
+   "name": "Predictive Analytics and Machine Learning Diagram",
+   "url": "https://www.visme.co/templates/infographics/predictive-analytics-and-machine-learning-diagram-1425295438/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Predictive-Analytics-and-Machine-Learning-Diagram_full.jpg"
+  },
+  {
+   "name": "AI Employee Onboarding Diagram",
+   "url": "https://www.visme.co/templates/infographics/ai-employee-onboarding-diagram-1425295439/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_AI-Employee-Onboarding-Diagram_full.jpg"
+  },
+  {
+   "name": "AI Powered Strategy Tools Diagram",
+   "url": "https://www.visme.co/templates/infographics/ai-powered-strategy-tools-diagram-1425295441/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_AI-Powered-Strategy-Tools-Diagram_full.jpg"
+  },
+  {
+   "name": "Key Components of a Safety Data Sheet Infographics",
+   "url": "https://www.visme.co/templates/infographics/key-components-of-a-safety-data-sheet-infographics-1425295596/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Key-Components-of-a-Safety-Data-Sheet-Infographics_full.jpg"
+  },
+  {
+   "name": "Key Elements of a Roadmap Presentation Infographic",
+   "url": "https://www.visme.co/templates/infographics/key-elements-of-a-roadmap-presentation-infographic-1425295597/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Key-Elements-of-a-Roadmap-Presentation-Infographic_full.jpg"
+  },
+  {
+   "name": "Agentic AI Workflow Diagram",
+   "url": "https://www.visme.co/templates/infographics/agentic-ai-workflow-diagram-1425295605/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Agentic-AI-Workflow-Diagram_full.jpg"
+  },
+  {
+   "name": "Edgar Dale Cone of Experience Infographic",
+   "url": "https://www.visme.co/templates/infographics/edgar-dale-cone-of-experience-infographic-1425295730/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Edgar-Dale-Cone-of-Experience-Infographic_full.jpg"
+  },
+  {
+   "name": "Most Common Change Management Model",
+   "url": "https://www.visme.co/templates/infographics/most-common-change-management-model-1425295731/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Most-Common-Change-Management-Model_full.jpg"
+  },
+  {
+   "name": "The Prosci ADKAR Model",
+   "url": "https://www.visme.co/templates/infographics/the-prosci-adkar-model-1425295732/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_The-Prosci-ADKAR-Model_full.jpg"
+  },
+  {
+   "name": "Kotter 8-Step Change Model",
+   "url": "https://www.visme.co/templates/infographics/kotter-8step-change-model-1425295733/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Kotter-8-Step-Change-Model_full.jpg"
+  },
+  {
+   "name": "Lewin Change Management Model",
+   "url": "https://www.visme.co/templates/infographics/lewin-change-management-model-1425295734/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Lewin-Change-Management-Model_full.jpg"
+  },
+  {
+   "name": "McKinsey 7-S Framework",
+   "url": "https://www.visme.co/templates/infographics/mckinsey-7s-framework-1425295735/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_McKinsey-7-S-Framework_full.jpg"
+  },
+  {
+   "name": "Bridges Transition Model",
+   "url": "https://www.visme.co/templates/infographics/bridges-transition-model-1425295736/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Bridges-Transition-Model_full.jpg"
+  },
+  {
+   "name": "Satir Change Model",
+   "url": "https://www.visme.co/templates/infographics/satir-change-model-1425295737/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Satir-Change-Model_full.jpg"
+  },
+  {
+   "name": "Kubler-Ross Change Curve",
+   "url": "https://www.visme.co/templates/infographics/kublerross-change-curve-1425295738/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Kubler-Ross-Change-Curve_full.jpg"
+  },
+  {
+   "name": "Product Case Study Infographic",
+   "url": "https://www.visme.co/templates/infographics/product-case-study-infographic-1425295739/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Product-Case-Study-Infographic_full.jpg"
+  },
+  {
+   "name": "SaaS Case Study Infographic",
+   "url": "https://www.visme.co/templates/infographics/saas-case-study-infographic-1425295740/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_SaaS-Case-Study-Infographic_full.jpg"
+  },
+  {
+   "name": "B2B Case Study Infographic",
+   "url": "https://www.visme.co/templates/infographics/b2b-case-study-infographic-1425295741/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_B2B-Case-Study-Infographic_full.jpg"
+  },
+  {
+   "name": "eCommerce Case Study Infographic",
+   "url": "https://www.visme.co/templates/infographics/ecommerce-case-study-infographic-1425295742/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_eCommerce-Case-Study-Infographic_full.jpg"
+  },
+  {
+   "name": "B2C Case Study Infographic",
+   "url": "https://www.visme.co/templates/infographics/b2c-case-study-infographic-1425295743/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_B2C-Case-Study-Infographic_full.jpg"
+  },
+  {
+   "name": "Software Case Study Infographic",
+   "url": "https://www.visme.co/templates/infographics/software-case-study-infographic-1425295745/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Software-Case-Study-Infographic_full.jpg"
+  },
+  {
+   "name": "Components of an Investor-Approved Competition Slide Infographic",
+   "url": "https://www.visme.co/templates/infographics/components-of-an-investorapproved-competition-slide-infographic-1425295746/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Components-of-an-Investor-Approved-Competition-Slide-Infographic_full.jpg"
+  },
+  {
+   "name": "Website Design Project Timeline Infographic",
+   "url": "https://www.visme.co/templates/infographics/website-design-project-timeline-infographic-templates-1425285392/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Website-Design-Project-Timeline-Infographic_full.jpg"
+  },
+  {
+   "name": "Ipads In The Classroom: Changing The Face of Education",
+   "url": "https://www.visme.co/templates/infographics/ipads-in-the-classroom-changing-the-face-of-education-1425277655/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Ipads-In-The-Classroom-Education_full.jpg"
+  },
+  {
+   "name": "Cybersecurity Threats and Solutions T Chart",
+   "url": "https://www.visme.co/templates/infographics/cybersecurity-threats-and-solutions-t-chart-templates-1425285635/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Cybersecurity-Threats-and-Solutions-T-Chart_full.jpg"
+  },
+  {
+   "name": "When to Use Different Charts Infographic",
+   "url": "https://www.visme.co/templates/infographics/when-to-use-different-charts-infographic-1425284031/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_When-to-Use-Different-Charts-Infographic_full.jpg"
+  },
+  {
+   "name": "App Development Gantt Chart Infographic",
+   "url": "https://www.visme.co/templates/infographics/app-development-gantt-chart-infographic-1425285668/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_App-Development-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "App Usage Comparison - Infographic",
+   "url": "https://www.visme.co/templates/infographics/app-usage-comparison-infographic-1425277648/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_App-devices-compared-prior-year_full.jpg"
+  },
+  {
+   "name": "Technology Use",
+   "url": "https://www.visme.co/templates/infographics/technology-use-1425277791/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Technology-Use_full.jpg"
+  },
+  {
+   "name": "Site Traffic Line Graph Infographic",
+   "url": "https://www.visme.co/templates/infographics/site-traffic-line-graph-infographic-1425279207/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Site-Traffic-Line-Graph_full.jpg"
+  },
+  {
+   "name": "Technology in Education Annual Report - Infographic",
+   "url": "https://www.visme.co/templates/infographics/technology-in-education-annual-report-infographic-1425279249/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_2014-2015-Annual-Report--Technology-in-Education_full.jpg"
+  },
+  {
+   "name": "Hardware Store Sales Bar Graph Infographic",
+   "url": "https://www.visme.co/templates/infographics/hardware-store-sales-bar-graph-infographic-1425280783/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Item-Sold-in-the-Hardware-Store-Bar-Graph_full.jpg"
+  },
+  {
+   "name": "Time Spend on Web vs Apps Pie Chart",
+   "url": "https://www.visme.co/templates/infographics/time-spend-on-web-vs-apps-pie-chart-1425280785/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Time-Spend-on-Web-vs-Apps-Pie-Chart_full.jpg"
+  },
+  {
+   "name": "SWOT Analysis Infographic",
+   "url": "https://www.visme.co/templates/infographics/swot-analysis-infographic-1425281611/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_SWOT-Analysis-1_full.jpg"
+  },
+  {
+   "name": "Python Programming Language T Chart",
+   "url": "https://www.visme.co/templates/infographics/python-programming-language-t-chart-templates-1425285634/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Python-Programming-Language-T-Chart_full.jpg"
+  },
+  {
+   "name": "Pros and Cons of WordPress T-Chart - Infographic",
+   "url": "https://www.visme.co/templates/infographics/pros-and-cons-of-wordpress-tchart-infographic-1425285642/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Pros-and-Cons-of-WordPress-T-Chart_full.jpg"
+  },
+  {
+   "name": "System Development Gantt Chart Infographic",
+   "url": "https://www.visme.co/templates/infographics/system-development-gantt-chart-infographic-1425285669/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_System-Development-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "DROID Project Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/droid-project-gantt-chart-templates-1425288430/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_DROID-Project-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "General Project Timeline Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/general-project-timeline-gantt-chart-templates-1425288432/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_General-Project-Timeline-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "Software Development Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/software-development-gantt-chart-templates-1425288433/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Software-Development-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "Yearly Team Assignments Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/yearly-team-assignments-gantt-chart-templates-1425288434/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Yearly-Team-Assignments-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "Product Feedback Design Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/product-feedback-design-gantt-chart-templates-1425288435/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Product-Feedback-Design-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "New Product Line Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/new-product-line-gantt-chart-templates-1425288436/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_New-Product-Line-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "Business Incubation Circle Diagram",
+   "url": "https://www.visme.co/templates/infographics/business-incubation-circle-diagram-templates-1425289365/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Business-Incubation-Circle-Diagram_full.jpg"
+  },
+  {
+   "name": "Org Structure vs Org Chart Infographic",
+   "url": "https://www.visme.co/templates/infographics/org-structure-vs-org-chart-infographic-templates-1425289384/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Org-Structure-vs-Org-Chart-Infographic_full.jpg"
+  },
+  {
+   "name": "Network Structure Infographic",
+   "url": "https://www.visme.co/templates/infographics/network-structure-infographic-templates-1425289386/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Network-Structure-Infographic_full.jpg"
+  },
+  {
+   "name": "Brand Asset Management vs. Digital Asset Management Infographic",
+   "url": "https://www.visme.co/templates/infographics/brand-asset-management-vs-digital-asset-management-infographic-templates-1425290564/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Brand-Asset-Management-vs.-Digital-Asset-Management-Infographic_full.jpg"
+  },
+  {
+   "name": "Key Elements of Radar Charts Infographic",
+   "url": "https://www.visme.co/templates/infographics/key-elements-of-radar-charts-infographic-templates-1425290567/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Key-Elements-of-Radar-Charts-Infographic_full.jpg"
+  },
+  {
+   "name": "Hard Skills vs Soft Skills Infographic",
+   "url": "https://www.visme.co/templates/infographics/hard-skills-vs-soft-skills-infographic-templates-1425291307/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Hard-Skills-vs-Soft-Skills-Infographic_full.jpg"
+  },
+  {
+   "name": "The Due Diligence Process Infographic",
+   "url": "https://www.visme.co/templates/infographics/the-due-diligence-process-infographic-templates-1425291355/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_The-Due-Diligence-Process-Infographic_full.jpg"
+  },
+  {
+   "name": "Data Analysis Infographic",
+   "url": "https://www.visme.co/templates/infographics/data-analysis-infographic-templates-1425291667/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Data-Analysis-Infographic_full.jpg"
+  },
+  {
+   "name": "Business Case vs. Project Charter Infographic",
+   "url": "https://www.visme.co/templates/infographics/business-case-vs-project-charter-infographic-templates-1425292563/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Business-Case-vs-Project-Charter-Infographic_full.jpg"
+  },
+  {
+   "name": "Elements of a One Page Infographic",
+   "url": "https://www.visme.co/templates/infographics/elements-of-a-one-page-infographic-1425292731/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Elements-of-a-One-Pager-Infographic_full.jpg"
+  },
+  {
+   "name": "Project Flow Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/project-flow-gantt-chart-templates-1425293180/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Project-Flow-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "24 Hour Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/24-hour-gantt-chart-templates-1425293181/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_24-Hour-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "Project Timeline Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/project-timeline-gantt-chart-templates-1425293183/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Project-Timeline-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "Project Management Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/project-management-gantt-chart-templates-1425293184/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Project-Management-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "Website Project Management Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/website-project-management-gantt-chart-templates-1425293185/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Website-Project-Management-Gantt-Chart_full.jpg"
+  },
+  {
+   "name": "Basic Gantt Chart",
+   "url": "https://www.visme.co/templates/infographics/basic-gantt-chart-templates-1425293186/",
+   "thumbnail": "https://assets.visme.co/templates/blockinfographics/fullsize/i_Basic-Gantt-Chart_full.jpg"
+  }
+ ]
+}
