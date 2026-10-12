@@ -13,7 +13,8 @@ import json, glob
 t = sum(json.load(open(f))['count'] for f in glob.glob('raw/*.json'))
 print(t)" 2>/dev/null)
     git commit -qm "templates: ${cats}(total ${total})" 2>/dev/null
-    echo "[$(date +%H:%M:%S)] committed: ${cats} total=${total}"
+    git push -q origin master 2>/dev/null
+    echo "[$(date +%H:%M:%S)] committed+pushed: ${cats} total=${total}"
   fi
   sleep 30
 done
