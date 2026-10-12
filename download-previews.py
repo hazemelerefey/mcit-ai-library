@@ -11,7 +11,8 @@ RAW = os.path.join(LIB, 'raw')
 PREV = os.path.join(LIB, 'previews')
 
 def slug(s):
-    return ''.join(c if c.isalnum() else '-' for c in s.lower()).strip('-').replace('--', '-')
+    import re
+    return re.sub(r'-+', '-', ''.join(c if c.isalnum() else '-' for c in s.lower()).strip('-'))
 
 def process():
     new = 0
@@ -32,11 +33,25 @@ def process():
             if os.path.exists(dest) and os.path.getsize(dest) > 1000:
                 continue
             try:
-                req = urllib.request.Request(thumb, headers={'User-Agent': 'Mozilla/5.0'})
-                with urllib.request.urlopen(req, timeout=30) as r, open(dest, 'wb') as f:
-                    f.write(r.read())
+                req = urllib.request.Request(thumb, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
+                for attempt in range(3):
+                    try:
+                        with urllib.request.urlopen(req, timeout=45) as r, open(dest, 'wb') as f:
+                            while True:
+                                chunk = r.read(65536)
+                                if not chunk:
+                                    break
+                                f.write(chunk)
+                        if os.path.getsize(dest) > 5000:
+                            break
+                    except Exception:
+                        if attempt == 2:
+                            raise
+                        time.sleep(2)
                 new += 1
             except Exception as e:
+                if os.path.exists(dest):
+                    os.remove(dest)
                 print(f'  skip {fname}: {type(e).__name__}')
         print(f'{d["category"]}: done ({len(d["templates"])} templates)')
     return new
