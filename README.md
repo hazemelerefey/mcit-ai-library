@@ -38,5 +38,4 @@ Flowcharts, Banners, and more. See `templates.json` for the full list.
 ## License note
 
 Template metadata (names, categories, URLs, thumbnail links) is factual
-reference data. Template designs themselves belong to Visme; do not copy
-their artwork, and link users to customize templates in Visme directly.
+reference data. Template designs themselves belong to MCIT AI
