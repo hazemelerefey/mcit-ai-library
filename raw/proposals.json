@@ -1,0 +1,401 @@
+{
+ "category": "Proposals",
+ "count": 79,
+ "templates": [
+  {
+   "name": "Software Request For Proposal",
+   "url": "https://www.visme.co/templates/proposals/software-request-for-proposal-1425293876/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Software-Request-For-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Software Development Project Proposal",
+   "url": "https://www.visme.co/templates/proposals/software-development-project-proposal-1425293877/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Software-Development-Project-Proposal-full_1.jpg"
+  },
+  {
+   "name": "RFP Response",
+   "url": "https://www.visme.co/templates/proposals/rfp-response-1425293882/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_RFP-Response-full_1.jpg"
+  },
+  {
+   "name": "Market Research Proposal",
+   "url": "https://www.visme.co/templates/proposals/market-research-proposal-1425293884/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Market-Research-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Software Purchase Proposal",
+   "url": "https://www.visme.co/templates/proposals/software-purchase-proposal-1425293885/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Software-Purchase-Proposal-full_1.jpg"
+  },
+  {
+   "name": "RFP IT",
+   "url": "https://www.visme.co/templates/proposals/rfp-it-1425293889/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_RFP-IT-full_1.jpg"
+  },
+  {
+   "name": "RFP Proposal Response",
+   "url": "https://www.visme.co/templates/proposals/rfp-proposal-response-1425293892/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_RFP-Proposal-Response-full_1.jpg"
+  },
+  {
+   "name": "Software Proposal",
+   "url": "https://www.visme.co/templates/proposals/software-proposal-1425293895/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Software-Proposal-full_1.jpg"
+  },
+  {
+   "name": "SaaS Software Proposal",
+   "url": "https://www.visme.co/templates/proposals/saas-software-proposal-1425293896/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_SaaS-Software-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Software Project Proposal",
+   "url": "https://www.visme.co/templates/proposals/software-project-proposal-1425293903/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Software-Project-Proposal-full_1.jpg"
+  },
+  {
+   "name": "LMS Software Development Project Proposal",
+   "url": "https://www.visme.co/templates/proposals/lms-software-development-project-proposal-1425293904/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_LMS-Software-Development-Project-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Tech Conference Paper Proposal Example",
+   "url": "https://www.visme.co/templates/proposals/tech-conference-paper-proposal-example-1425294014/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Tech-Conference-Paper-Proposal-Example-full_1.jpg"
+  },
+  {
+   "name": "Marketing Conference Proposal",
+   "url": "https://www.visme.co/templates/proposals/marketing-conference-proposal-1425294015/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Marketing-Conference-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Basic Simple Proposal",
+   "url": "https://www.visme.co/templates/proposals/basic-simple-proposal-1425294399/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Basic-Simple-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Sponsorship Proposal Example",
+   "url": "https://www.visme.co/templates/proposals/sponsorship-proposal-example-1425294738/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Sponsorship-Proposal-Example-full_1.jpg"
+  },
+  {
+   "name": "Corporate Sponsorship Proposal",
+   "url": "https://www.visme.co/templates/proposals/corporate-sponsorship-proposal-1425294756/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Corporate-Sponsorship-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Event Planning Proposal",
+   "url": "https://www.visme.co/templates/proposals/event-planning-proposal-1425294764/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Event-Planning-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Event Proposal Example",
+   "url": "https://www.visme.co/templates/proposals/event-proposal-example-1425294768/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Event-Proposal-Example-full_1.jpg"
+  },
+  {
+   "name": "Event Proposal Sample",
+   "url": "https://www.visme.co/templates/proposals/event-proposal-sample-1425294772/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Event-Proposal-Sample-full_1.jpg"
+  },
+  {
+   "name": "Premier Event Proposal",
+   "url": "https://www.visme.co/templates/proposals/premier-event-proposal-1425294775/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Premier-Event-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Virtual Conference Proposal",
+   "url": "https://www.visme.co/templates/proposals/virtual-conference-proposal-1425294985/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Virtual-Conference-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Event Proposal Outline",
+   "url": "https://www.visme.co/templates/proposals/event-proposal-outline-1425294986/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Event-Proposal-Outline-full_1.jpg"
+  },
+  {
+   "name": "Research Grant Proposal",
+   "url": "https://www.visme.co/templates/proposals/research-grant-proposal-1425295342/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Research-Grant-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Business Grant Proposal",
+   "url": "https://www.visme.co/templates/proposals/business-grant-proposal-1425295463/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Business-Grant-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Digital Branding and Promotion Proposal",
+   "url": "https://www.visme.co/templates/proposals/digital-branding-and-promotion-proposal-1425281005/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Digital-Branding-and-Promotion-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Project Management Proposal",
+   "url": "https://www.visme.co/templates/proposals/project-management-proposal-1425285158/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Project-Management-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Website Design Business Proposal",
+   "url": "https://www.visme.co/templates/proposals/website-design-business-proposal-1425281000/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Website-Design-Business-Proposal-full_1.jpg"
+  },
+  {
+   "name": "QA Testing Proposal",
+   "url": "https://www.visme.co/templates/proposals/qa-testing-proposal-1425281001/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_QA-Testing-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Engineering Proposal",
+   "url": "https://www.visme.co/templates/proposals/engineering-proposal-1425284917/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Engineering-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Technical Proposal",
+   "url": "https://www.visme.co/templates/proposals/technical-proposal-1425284918/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Technical-Proposal-full_1.jpg"
+  },
+  {
+   "name": "SEO Proposal",
+   "url": "https://www.visme.co/templates/proposals/seo-proposal-1425281003/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_SEO-Blue-Proposal-full_1.jpg"
+  },
+  {
+   "name": "SEO Proposal",
+   "url": "https://www.visme.co/templates/proposals/seo-proposal-1425281023/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_SEO-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Engineer Proposal",
+   "url": "https://www.visme.co/templates/proposals/engineer-proposal-1425280012/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Engineer-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Web Design Proposal",
+   "url": "https://www.visme.co/templates/proposals/web-design-proposal-1425278929/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Web-Design-Proposal-full_1.jpg"
+  },
+  {
+   "name": "CRO Proposal",
+   "url": "https://www.visme.co/templates/proposals/cro-proposal-1425280045/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_CRO-Proposal-full_1.jpg"
+  },
+  {
+   "name": "IT Consulting Proposal",
+   "url": "https://www.visme.co/templates/proposals/it-consulting-proposal-1425280044/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_IT-Consulting-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Web Development Project Proposal",
+   "url": "https://www.visme.co/templates/proposals/web-development-project-proposal-1425280046/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Web-Development-Project-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Contractor Proposal",
+   "url": "https://www.visme.co/templates/proposals/contractor-proposal-1425284926/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Contractor-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Software Development Proposal",
+   "url": "https://www.visme.co/templates/proposals/software-development-proposal-1425285012/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Software-Development-Proposal-full_1.jpg"
+  },
+  {
+   "name": "HVAC Proposal",
+   "url": "https://www.visme.co/templates/proposals/hvac-proposal-1425285013/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_HVAC-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Electrical Proposal",
+   "url": "https://www.visme.co/templates/proposals/electrical-proposal-1425285145/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Electrical-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Website Redesign Proposal",
+   "url": "https://www.visme.co/templates/proposals/website-redesign-proposal-1425285156/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Website-Redesign-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Mobile Video Game Development Proposal",
+   "url": "https://www.visme.co/templates/proposals/mobile-video-game-development-proposal-templates-1425287150/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Mobile-Video-Game-Development-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Online Grocery Delivery Proposal",
+   "url": "https://www.visme.co/templates/proposals/online-grocery-delivery-proposal-templates-1425287152/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Online-Grocery-Delivery-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Talent Platform for Hiring Proposal",
+   "url": "https://www.visme.co/templates/proposals/talent-platform-for-hiring-proposal-templates-1425287153/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Talent-Platform-for-Hiring-Proposal-full_1.jpg"
+  },
+  {
+   "name": "3D Product Visualization Platform Proposal",
+   "url": "https://www.visme.co/templates/proposals/3d-product-visualization-platform-proposal-templates-1425287155/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_3D-Product-Visualization-Platform-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Big Data and Cloud Computing Services Proposal",
+   "url": "https://www.visme.co/templates/proposals/big-data-and-cloud-computing-services-proposal-templates-1425287156/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Big-Data-and-Cloud-Computing-Services-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Tech Company One Pager Proposal",
+   "url": "https://www.visme.co/templates/proposals/tech-company-one-pager-proposal-templates-1425289870/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Tech-Company-One-Pager-Proposal_full.jpg"
+  },
+  {
+   "name": "IT Service One Pager Proposal",
+   "url": "https://www.visme.co/templates/proposals/it-service-one-pager-proposal-templates-1425289871/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_IT-Service-One-Pager-Proposal_full.jpg"
+  },
+  {
+   "name": "Customer Service One Pager Proposal",
+   "url": "https://www.visme.co/templates/proposals/customer-service-one-pager-proposal-templates-1425289874/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Customer-Service-One-Pager-Proposal_full.jpg"
+  },
+  {
+   "name": "Development Process One Pager Proposal Template",
+   "url": "https://www.visme.co/templates/proposals/development-process-one-pager-proposal-template-1425289876/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Development-Process-One-Pager-Proposal_full.jpg"
+  },
+  {
+   "name": "Digital Marketer Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/digital-marketer-job-proposal-templates-1425290277/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Digital-Marketer-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Tech IT Specialist Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/tech-it-specialist-job-proposal-templates-1425290278/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Tech-IT-Specialist-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Sales Manager Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/sales-manager-job-proposal-templates-1425290280/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Sales-Manager-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Creative Director Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/creative-director-job-proposal-templates-1425290281/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Creative-Director-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Executive Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/executive-job-proposal-templates-1425290282/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Executive-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Product Manager Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/product-manager-job-proposal-templates-1425290284/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Product-Manager-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Customer Service Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/customer-service-job-proposal-templates-1425290287/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Customer-Service-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Manager Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/manager-job-proposal-templates-1425290290/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Manager-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Social Media Manager Job Proposal",
+   "url": "https://www.visme.co/templates/proposals/social-media-manager-job-proposal-templates-1425290291/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Social-Media-Manager-Job-Proposal-full_1.jpg"
+  },
+  {
+   "name": "General Training Proposal",
+   "url": "https://www.visme.co/templates/proposals/general-training-proposal-templates-1425290804/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_General-Training-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Engineering Team Training Proposal",
+   "url": "https://www.visme.co/templates/proposals/engineering-team-training-proposal-templates-1425290808/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Engineering-Team-Training-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Technology Tools RFP Response Proposal",
+   "url": "https://www.visme.co/templates/proposals/technology-tools-rfp-response-proposal-templates-1425290933/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Technology-Tools-RFP-Response-Proposal-full_1.jpg"
+  },
+  {
+   "name": "App Development Investment Proposal",
+   "url": "https://www.visme.co/templates/proposals/app-development-investment-proposal-templates-1425291167/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_App-Development-Investment-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Basic Investment Proposal",
+   "url": "https://www.visme.co/templates/proposals/basic-investment-proposal-templates-1425291168/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Basic-Investment-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Product Research Proposal",
+   "url": "https://www.visme.co/templates/proposals/product-research-proposal-templates-1425291271/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Product-Research-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Tech Research Proposal",
+   "url": "https://www.visme.co/templates/proposals/tech-research-proposal-templates-1425291272/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Tech-Research-Proposal-full_1.jpg"
+  },
+  {
+   "name": "IT RFP Bid Proposal",
+   "url": "https://www.visme.co/templates/proposals/it-rfp-bid-proposal-templates-1425291368/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_IT-RFP-Bid-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Fintech Agency Bid Proposal",
+   "url": "https://www.visme.co/templates/proposals/fintech-agency-bid-proposal-templates-1425291369/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Fintech-Agency-Bid-Proposal-full_1.jpg"
+  },
+  {
+   "name": "CRM Implementation Proposal",
+   "url": "https://www.visme.co/templates/proposals/crm-implementation-proposal-templates-1425292063/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_CRM-Implementation-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Cybersecurity Solution Proposal",
+   "url": "https://www.visme.co/templates/proposals/cybersecurity-solution-proposal-templates-1425292064/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Cybersecurity-Solution-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Employee Training Proposal",
+   "url": "https://www.visme.co/templates/proposals/employee-training-proposal-templates-1425292065/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Employee-Training-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Computer Training Bootcamp Grant Proposal",
+   "url": "https://www.visme.co/templates/proposals/computer-training-bootcamp-grant-proposal-templates-1425292407/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Computer-Training-Bootcamp-Grant-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Brand Sponsorship Proposal",
+   "url": "https://www.visme.co/templates/proposals/brand-sponsorship-proposal-templates-1425292411/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Brand-Sponsorship-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Annual Budget Proposal",
+   "url": "https://www.visme.co/templates/proposals/annual-budget-proposal-templates-1425292907/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Annual-Budget-Proposal-full_1.jpg"
+  },
+  {
+   "name": "IT Budget Proposal",
+   "url": "https://www.visme.co/templates/proposals/it-budget-proposal-templates-1425292908/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_IT-Budget-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Sleek Hospital Management System Proposal",
+   "url": "https://www.visme.co/templates/proposals/sleek-hospital-management-system-proposal-templates-1425293078/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Sleek-Hospital-Management-System-Proposal-full_1.jpg"
+  },
+  {
+   "name": "Consulting Agency Proposal",
+   "url": "https://www.visme.co/templates/proposals/consulting-agency-proposal-templates-1425293123/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Consulting-Agency-Proposal-full_1.jpg"
+  },
+  {
+   "name": "IT Agency Proposal",
+   "url": "https://www.visme.co/templates/proposals/it-agency-proposal-templates-1425293128/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_IT-Agency-Proposal-full_1.jpg"
+  }
+ ]
+}
