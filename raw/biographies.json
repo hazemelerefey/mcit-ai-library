@@ -1,0 +1,36 @@
+{
+ "category": "Biographies",
+ "count": 6,
+ "templates": [
+  {
+   "name": "New Employee Bio",
+   "url": "https://www.visme.co/templates/biographies/new-employee-bio-1425295755/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_New-Employee-Bio_full.jpg"
+  },
+  {
+   "name": "Executive Bio",
+   "url": "https://www.visme.co/templates/biographies/executive-bio-1425295757/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Executive-Bio-full_1.jpg"
+  },
+  {
+   "name": "Speaker Bio",
+   "url": "https://www.visme.co/templates/biographies/speaker-bio-1425295761/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Speaker-Bio_full.jpg"
+  },
+  {
+   "name": "Board Bio",
+   "url": "https://www.visme.co/templates/biographies/board-bio-1425295931/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Board-Bio_full.jpg"
+  },
+  {
+   "name": "Creative Director Biography",
+   "url": "https://www.visme.co/templates/biographies/creative-director-biography-1425295935/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Creative-Director-Biography_full.jpg"
+  },
+  {
+   "name": "Simple Biography",
+   "url": "https://www.visme.co/templates/biographies/simple-biography-1425296243/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Simple-Biography_full.jpg"
+  }
+ ]
+}
