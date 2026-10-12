@@ -1,0 +1,51 @@
+{
+ "category": "Newsletters",
+ "count": 9,
+ "templates": [
+  {
+   "name": "SaaS Weekly Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/saas-weekly-newsletter-1425294429/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_SaaS-Weekly-Newsletter_full.jpg"
+  },
+  {
+   "name": "Feature Recap Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/feature-recap-newsletter-1425294430/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Feature-Recap-Newsletter_full.jpg"
+  },
+  {
+   "name": "Employee Recognition Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/employee-recognition-newsletter-1425296160/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Employee-Recognition-Newsletter_full.jpg"
+  },
+  {
+   "name": "Employee Engagement Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/employee-engagement-newsletter-1425296161/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Employee-Engagement-Newsletter-full_1.jpg"
+  },
+  {
+   "name": "Employee Benefits Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/employee-benefits-newsletter-1425296166/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Employee-Benefits-Newsletter-full_1.jpg"
+  },
+  {
+   "name": "Employee Spotlight Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/employee-spotlight-newsletter-1425296167/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Employee-Spotlight-Newsletter_full.jpg"
+  },
+  {
+   "name": "Smart Glasses Technology Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/smart-glasses-technology-newsletter-templates-1425287001/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Smart-Glasses-Technology-Newsletter_full.jpg"
+  },
+  {
+   "name": "Apple iPhone Technology Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/apple-iphone-technology-newsletter-templates-1425287002/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Apple-iPhone-Technology-Newsletter_full.jpg"
+  },
+  {
+   "name": "Metaverse Technology Newsletter",
+   "url": "https://www.visme.co/templates/newsletters/metaverse-technology-newsletter-templates-1425287003/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Metaverse-Technology-Newsletter-full_1.jpg"
+  }
+ ]
+}
