@@ -1,0 +1,111 @@
+{
+ "category": "Brochures",
+ "count": 21,
+ "templates": [
+  {
+   "name": "Conference Brochure",
+   "url": "https://www.visme.co/templates/brochures/conference-brochure-1425293819/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Conference-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Sales Brochure",
+   "url": "https://www.visme.co/templates/brochures/sales-brochure-1425294283/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Sales-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Sales Brochure Example",
+   "url": "https://www.visme.co/templates/brochures/sales-brochure-example-1425294284/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Sales-Brochure-Example-full_1.jpg"
+  },
+  {
+   "name": "Event Program Brochure",
+   "url": "https://www.visme.co/templates/brochures/event-program-brochure-1425294559/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Event-Program-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Home Guard Brochure",
+   "url": "https://www.visme.co/templates/brochures/home-guard-brochure-1425294814/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Home-Guard-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Security Services Brochure",
+   "url": "https://www.visme.co/templates/brochures/security-services-brochure-1425294817/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Security-Services-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Cyber Security Brochure",
+   "url": "https://www.visme.co/templates/brochures/cyber-security-brochure-1425294819/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Cyber-Security-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Product Corporate Trifold Brochure",
+   "url": "https://www.visme.co/templates/brochures/product-corporate-trifold-brochure-1425294826/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Product-Corporate-Trifold-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Modern Trifold Brochure",
+   "url": "https://www.visme.co/templates/brochures/modern-trifold-brochure-templates-1425286213/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Modern-Trifold-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Simple Trifold Brochure",
+   "url": "https://www.visme.co/templates/brochures/simple-trifold-brochure-templates-1425286216/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Simple-Trifold-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Technology Company Trifold Brochure",
+   "url": "https://www.visme.co/templates/brochures/technology-company-trifold-brochure-templates-1425287038/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Technology-Company-Trifold-Brochure-full_1.jpg"
+  },
+  {
+   "name": "VPN Service Brochure",
+   "url": "https://www.visme.co/templates/brochures/vpn-service-brochure-templates-1425287963/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_VPN-Service-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Smart Home Brochure",
+   "url": "https://www.visme.co/templates/brochures/smart-home-brochure-templates-1425287965/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Smart-Home-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Security Company Brochure",
+   "url": "https://www.visme.co/templates/brochures/security-company-brochure-templates-1425288737/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Security-Company-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Product Bifold Brochure",
+   "url": "https://www.visme.co/templates/brochures/product-bifold-brochure-templates-1425288818/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Product-Bifold-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Pricing Bifold Brochure",
+   "url": "https://www.visme.co/templates/brochures/pricing-bifold-brochure-templates-1425288825/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Pricing-Bifold-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Smart Home Bifold Brochure",
+   "url": "https://www.visme.co/templates/brochures/smart-home-bifold-brochure-templates-1425288953/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Smart-Home-Bifold-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Workshop Brochure",
+   "url": "https://www.visme.co/templates/brochures/workshop-brochure-templates-1425290633/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Workshop-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Trifold Business Brochure",
+   "url": "https://www.visme.co/templates/brochures/trifold-business-brochure-1425292831/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Sleek-Technology-Company-Trifold-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Sleek VPN Service Brochure",
+   "url": "https://www.visme.co/templates/brochures/sleek-vpn-service-brochure-templates-1425293084/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Sleek-VPN-Service-Brochure-full_1.jpg"
+  },
+  {
+   "name": "Sleek Smart Home Brochure",
+   "url": "https://www.visme.co/templates/brochures/sleek-smart-home-brochure-templates-1425293085/",
+   "thumbnail": "https://assets.visme.co/templates/banners/thumbnails/i_Sleek-Smart-Home-Brochure-full_1.jpg"
+  }
+ ]
+}
