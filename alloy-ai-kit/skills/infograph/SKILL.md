@@ -51,8 +51,8 @@ diagram, or sketchnote.
 
 ## Worked example
 
-Approved piece: `../templates/infograph/sketchnote-toolchain.png`
-("AI TOOLCHAIN SKETCHNOTES") with `../templates/infograph/DESIGN.md`.
+Approved piece: `../../templates/infograph/sketchnote-toolchain.png`
+("AI TOOLCHAIN SKETCHNOTES") with `../../templates/infograph/DESIGN.md`.
 Built with zero image APIs — compare any new piece against it for
 density, balance, and doodle placement.
 
@@ -78,6 +78,6 @@ density, balance, and doodle placement.
 
 ## References
 
-- Template + design notes: `../templates/infograph/`
+- Template + design notes: `../../templates/infograph/`
 - No-API pipeline: `~/workspace/skills/infographic/SKETCHNOTE.md`
 - Tool inventory: `../../tools/TOOLS.md`

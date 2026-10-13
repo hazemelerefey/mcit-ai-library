@@ -55,8 +55,8 @@ restyling, or extracting content from one.
 
 ## Worked example
 
-Approved 15-slide test deck: `../templates/powerpoint/demo-pptx-skill-test.pptx`
-("Applied AI in Production") with `../templates/powerpoint/DESIGN.md`.
+Approved 15-slide test deck: `../../templates/powerpoint/demo-pptx-skill-test.pptx`
+("Applied AI in Production") with `../../templates/powerpoint/DESIGN.md`.
 It demonstrates: Platinum Silver theme, Cambria/Calibri pairing,
 native charts with palette colors, varied layouts, and the
 build → render → fix loop (a clipped contact line on slide 15 was
@@ -75,6 +75,6 @@ caught in QA and fixed before delivery).
 
 ## References
 
-- Template + design notes: `../templates/powerpoint/`
+- Template + design notes: `../../templates/powerpoint/`
 - Construction playbook: `~/workspace/skills/pptx/SKILL.md`
 - Tool inventory: `../../tools/TOOLS.md`

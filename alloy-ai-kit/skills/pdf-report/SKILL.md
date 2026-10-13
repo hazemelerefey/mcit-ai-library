@@ -72,7 +72,7 @@ Code reference: `~/workspace/mcit-doc-agent/generator/build_report_v6.py`
 `eyebrow`, `section_head`, `data_table`, `rpt_fig`/`antv_fig`,
 `body_para`, `insight_line`, `footer_line`, `logo_card` helpers;
 `build(style_key, lang, out_path)` assembles the full document.
-Design tokens distilled in `../templates/pdf-report/DESIGN.md`.
+Design tokens distilled in `../../templates/pdf-report/DESIGN.md`.
 
 ## Gotchas
 
@@ -87,7 +87,7 @@ Design tokens distilled in `../templates/pdf-report/DESIGN.md`.
 
 ## References
 
-- Design notes: `../templates/pdf-report/DESIGN.md`
+- Design notes: `../../templates/pdf-report/DESIGN.md`
 - Full design system: `~/workspace/mcit-doc-agent/design-system.md`
 - Figures: `../figures/SKILL.md`
 - Tool inventory: `../../tools/TOOLS.md`

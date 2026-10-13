@@ -25,7 +25,7 @@ workbook.
 
 1. **Profile the input.** Row count, columns, grain (one row = ?),
    categorical dimensions, numeric measures. Note the template:
-   `../templates/spreadsheet/TEMPLATE.md`.
+   `../../templates/spreadsheet/TEMPLATE.md`.
 2. **Decide the pivots.** One pivot per analytical question
    (e.g. by gender, by country, by age bracket). Each pivot gets
    its own sheet and a bound pivot chart.
@@ -41,7 +41,7 @@ workbook.
 
 ## Worked example
 
-Template: `../templates/spreadsheet/file_example_XLS_5000.xls`
+Template: `../../templates/spreadsheet/file_example_XLS_5000.xls`
 (5,000-row people dataset — see `TEMPLATE.md` for columns).
 Built from it: `~/workspace/mcit-ai-library/demo-people-dashboard.xlsx`
 with genuine GridCraft pivot tables and bound pivot charts.
@@ -61,6 +61,6 @@ formulas verified: 5,000 · 76.00% · 48.00%.
 
 ## References
 
-- Template + column docs: `../templates/spreadsheet/`
+- Template + column docs: `../../templates/spreadsheet/`
 - Dashboard design judgment: `~/workspace/skills/design-dashboards/`
 - Tool inventory: `../../tools/TOOLS.md`
