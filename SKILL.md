@@ -43,9 +43,34 @@ Apply in order:
 4. Arabic deliverables are genuinely RTL: mirrored layout, right
    alignment, Arabic reshaping where the renderer needs it.
 
-## Step 4 — Deliver
+## Hard constraints (learned from corrections — never violate)
 
-- Open and judge the output yourself before handing it over.
-- Include the source template name and URL in your working notes so
-  the choice is auditable.
-- If the user wants to edit further in Visme, give them the template URL.
+### Fonts
+- ALWAYS use the user's font library: **Nohemi** for headings,
+  **Public Sans** for body text.
+  Source: https://github.com/hazemelerefey/ui-ux-library/tree/main/fonts
+- Set these font names in every deliverable. No exceptions.
+
+### Text readability
+- Body text NEVER below 20pt. Headings 40pt+.
+- Every word must be easily readable at normal viewing distance.
+- If text looks small in review, regenerate bigger. Do not ship it.
+
+### Figures
+- ALWAYS generate figures with proper tools (AntV via mcp-server-chart,
+  ECharts, or Matplotlib). NEVER draw charts as manual shapes.
+- Figure text must be big and clear: generate charts at 900x550 so
+  labels render proportionally large. Verify by opening the image.
+- NEVER reuse the same chart type twice in one deliverable. Vary:
+  column, bar, line, pie, area, scatter — pick different types per figure.
+- Match figure colors to the deliverable theme.
+
+### Completeness
+- Generate ALL slides/pages of the template structure. Never a subset.
+- Reports: LONG detailed content, never brief. Full paragraphs,
+  findings, analysis — not bullet-point summaries.
+
+### Review
+- Open and judge every figure image yourself before embedding.
+- Open and judge the final output yourself before handing it over.
+- If anything is small, duplicated, or off-theme, fix it before delivery.
