@@ -86,3 +86,10 @@ Apply in order:
   export SVG + PNG, preview before use.
 - Embed assets in presentations (python-pptx) and reports (WeasyPrint)
   as real designed artwork.
+
+### Spreadsheets and dashboards (GridCraft)
+- Build dashboards and data workbooks with GridCraft
+  (`~/workspace/tools/gridcraft/`, CLI `gridcraft-cli`).
+- Style in Platinum Silver: navy headers, steel accents, silver fills.
+- Use real formulas, native charts (`insert.chart`), formatted tables.
+- Dashboard demo: `demo-mcit-dashboard.xlsx`.
