@@ -1,0 +1,25 @@
+infographic list-column-vertical-icon-arrow
+data
+  title Our AI Toolchain, Visualized
+  desc One main tool per job. No substitutes.
+  lists
+    - label 1 GridCraft
+      desc XLS reports and dashboards with real pivot tables
+      icon table
+    - label 2 DeckCraft
+      desc PowerPoints rendered and QA checked slide by slide
+      icon projector screen
+    - label 3 EffectCraft
+      desc Motion graphics with 60fps headless renders
+      icon film
+    - label 4 PdfCraft
+      desc PDFs built, edited and exported
+      icon pdf file
+    - label 5 VectorCraft
+      desc Designs and infographics, sharp vector shapes
+      icon pen
+    - label 6 PptxGenJS
+      desc PPTX construction library paired with DeckCraft
+      icon code
+theme
+  palette #0A1A2F #5E6B7A #B9C2CE
