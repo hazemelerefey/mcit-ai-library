@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <title>Untitled-1</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M0 0 L500 0 L500 12 L0 12 Z" fill="#b9c2ce" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M0 0 L12 0 L12 500 L0 500 Z" fill="#b9c2ce" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M30 30 L230 30 L230 34 L30 34 Z" fill="#5e6b7a" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M30 30 L34 30 L34 230 L30 230 Z" fill="#5e6b7a" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M75 53.787 L96.213 75 L75 96.213 L53.787 75 Z" fill="#b9c2ce" stroke="#000000" stroke-miterlimit="10"/>
+  </g>
+</svg>
