@@ -1,0 +1,17 @@
+Most people build everything with one generic tool. Then they wonder why every artifact looks the same.
+
+A toolchain is not a pile of apps. It is a set of decisions: this job belongs to this tool, no substitutes. When each job has its own tool, every output carries the quality of a specialist.
+
+Here is the mental model. Split the work into two phases: CREATE and FINISH.
+
+→ CREATE is where the artifact gets built. GridCraft owns spreadsheets, because real pivot tables beat pasted values every time. DeckCraft owns slides, because a deck you never rendered is a deck you never checked. EffectCraft owns motion, because 60fps is not a setting, it is a standard. PdfCraft owns documents.
+
+→ FINISH is where the artifact earns the right to ship. VectorCraft owns design, because sharp vector shapes do not blur at any size. PptxGenJS builds the deck structure that DeckCraft then renders. Then the two steps most people skip: REVIEW, where every artifact gets opened and judged by eye before delivery, and SHIP, where only reviewed work gets committed and pushed.
+
+The common mistake: using one tool for everything because it is already open. The senior move: reaching for the right tool even when it takes an extra minute, because the extra minute is where quality lives.
+
+Notice the numbering. Six tools, numbered 1 to 6. When the rule is written down, it stops being a preference and starts being a system. Systems survive busy days. Preferences do not.
+
+What is the one tool in your workflow doing a job it was never meant to do? Share your thoughts below.
+
+Follow for more.

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infographic Template</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500&family=Inter:wght@900&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    .slide {
+      width: 1200px;
+      height: 1581px;
+      background: #ffffff;
+      position: relative;
+      font-family: sans-serif;
+    }
+
+    /* Top-left tech icon */
+    .tech-icon {
+      position: absolute;
+      top: 30px;
+      left: 50px;
+    }
+
+    .tech-icon img {
+      width: 80px;
+      height: 80px;
+      object-fit: contain;
+    }
+
+    /* Top-right title */
+    .title {
+      position: absolute;
+      top: 32px;
+      right: 50px;
+      padding: 16.5px 0;
+      font-family: 'Inter', sans-serif;
+      font-weight: 900;
+      font-size: 54px;
+      color: #181D2F;
+      text-transform: uppercase;
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    /* Bottom bar */
+    .bottom-bar {
+      position: absolute;
+      bottom: 24px;
+      left: 0;
+      right: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .bottom-url {
+      position: absolute;
+      left: 50px;
+      font-family: 'Epilogue', sans-serif;
+      font-weight: 500;
+      font-size: 20px;
+      color: #181D2F;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .logo-wordmark {
+      height: 38px;
+      width: auto;
+    }
+
+    /* Content image */
+    .content {
+      position: absolute;
+      top: 110px;
+      left: 48px;
+      right: 0;
+      bottom: 80px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .content img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  </style>
+</head>
+<body>
+
+<!--
+  This template is filled in per run. Replace these placeholders:
+    AI TOOLCHAIN        - topic title, ALL CAPS, kept short to fit beside the icon
+                       (e.g. "HOW DOCKER WORKS", or "VIRTUAL THREADS" for a long
+                       topic). See SKILL.md Step 4 title rules.
+    How Our AI Toolchain Works Raw.png  - path/filename of the generated raw diagram image
+    How Our AI Toolchain Works  - alt text (the topic name)
+    {{ICON_PATH}}    - tech icon: a CO-LOCATED local filename ("icon.svg") that
+                       Step 4 downloaded into this folder. NEVER a raw remote URL
+                       or a guessed filename. If no real tech icon is available,
+                       DELETE the whole .tech-icon div below (empty fallback, no
+                       brand logo).
+    {{LOGO_PATH}}    - brand wordmark, from config.logoPath
+    hazemelerefy.vercel.app  - footer URL/text, from config.footerText
+-->
+<div class="slide">
+    <div class="title">AI TOOLCHAIN</div>
+
+  <div class="content">
+    <img src="How Our AI Toolchain Works Raw.png" alt="How Our AI Toolchain Works" />
+  </div>
+
+  <div class="bottom-bar">
+    <span class="bottom-url">hazemelerefy.vercel.app</span>
+    <div class="logo"><span style="font-family:Epilogue,sans-serif;font-weight:700;font-size:20px;color:#181D2F;letter-spacing:2px;">HAZEM ELEREFY</span></div>
+  </div>
+</div>
+
+</body>
+</html>
