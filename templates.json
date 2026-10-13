@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-13T02:29:34.707407+00:00",
- "total_templates": 1354,
- "total_categories": 14,
+ "generated": "2026-10-13T02:42:21.842530+00:00",
+ "total_templates": 1357,
+ "total_categories": 15,
  "downloaded_templates": 63,
  "total_slides": 451,
  "categories": {
@@ -149,6 +149,16 @@
     "ebooks/python-programming-ebook-templates",
     "ebooks/electronics-ebook-templates",
     "ebooks/sdlc-ebook-templates"
+   ]
+  },
+  "flyers-small": {
+   "name": "Flyers (Small)",
+   "slug": "flyers-small",
+   "count": 3,
+   "templates": [
+    "flyers-small/it-systems-flyer",
+    "flyers-small/nonprofit-flyer",
+    "flyers-small/photography-class-flyer"
    ]
   },
   "infographics": {
@@ -2948,6 +2958,36 @@
    ],
    "slide_count": 8,
    "downloaded": true
+  },
+  {
+   "id": "flyers-small/it-systems-flyer",
+   "title": "it-systems-flyer",
+   "category": "Flyers (Small)",
+   "category_slug": "flyers-small",
+   "source_url": "https://www.visme.co/templates/flyers/it-systems-flyer-1425277060/",
+   "slides": [],
+   "slide_count": 0,
+   "downloaded": false
+  },
+  {
+   "id": "flyers-small/nonprofit-flyer",
+   "title": "nonprofit-flyer",
+   "category": "Flyers (Small)",
+   "category_slug": "flyers-small",
+   "source_url": "https://www.visme.co/templates/flyers/nonprofit-flyer-1425277056/",
+   "slides": [],
+   "slide_count": 0,
+   "downloaded": false
+  },
+  {
+   "id": "flyers-small/photography-class-flyer",
+   "title": "photography-class-flyer",
+   "category": "Flyers (Small)",
+   "category_slug": "flyers-small",
+   "source_url": "https://www.visme.co/templates/flyers/photography-class-flyer-1425277063/",
+   "slides": [],
+   "slide_count": 0,
+   "downloaded": false
   },
   {
    "id": "infographics/what-to-include-in-a-company-handbook-infographic",
