@@ -118,3 +118,22 @@ skill and tool combo for designing decks.
 - QA with `deckcraft-cli render` on every slide; fix overflow, overlaps,
   and clipping before delivery. Skill's `validate.py` for file integrity.
 - Test deck proving the toolchain: `demo-pptx-skill-test.pptx` (15 slides).
+
+## Motion graphics: main toolchain (EffectCraft + video-motion-graphics skill)
+
+Standing rule: for motion graphics and video animation work, ALWAYS use
+EffectCraft (`~/workspace/tools/effectcraft/`, v0.9.2, CLI `effectcraft-cli`)
+together with the `video-motion-graphics` skill
+(`~/workspace/skills/video-motion-graphics/`, from
+dylantarre/animation-principles). This is the main skill and tool combo
+for motion design.
+
+- EffectCraft: open-source After Effects reimplementation in Rust.
+  CLI supports comp/layer/keyframe commands and headless rendering.
+  Check `effectcraft-cli commands` for the current API (young, moving fast).
+- Skill applies Disney's 12 animation principles to motion graphics:
+  anticipation, slow in/out (never linear), squash & stretch (overshoot),
+  follow through (stagger), staging, arcs, secondary action, timing,
+  exaggeration, solid drawing, appeal.
+- Standing rule: all video output at 60fps.
+- Test piece: `demo-motion-graphics-60fps.mp4`.
