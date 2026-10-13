@@ -18,7 +18,7 @@ Each entry has `name`, `url` (Visme template page), and `thumbnail`
 Read `~/workspace/mcit-ai-library/free-tools-research.md`, find the
 template's category, and use the listed free/open-source tool:
 
-- presentations → PptxGenJS / python-pptx
+- presentations → pptx skill + DeckCraft (main toolchain, see below) / PptxGenJS / python-pptx
 - infographics → antvis/Infographic (.ifgc) / Satori
 - reports → Typst / WeasyPrint / ReportLab
 - charts & graphs → Apache ECharts / Vega-Lite / Matplotlib
@@ -100,3 +100,21 @@ Apply in order:
 - Set landscape orientation for dashboards. Keep to 3 columns (A:C) max
   for clean PDF rendering. Verify with LibreOffice PDF export before delivery.
 - Dashboard demo: `demo-people-dashboard.xlsx`.
+
+## Presentations: main toolchain (pptx skill + DeckCraft)
+
+Standing rule: for all PowerPoint work, ALWAYS use the `pptx` skill
+(`~/workspace/skills/pptx/`, from anthropics/skills) together with DeckCraft
+(`~/workspace/tools/deckcraft/`, CLI `deckcraft-cli`). This is the main
+skill and tool combo for designing decks.
+
+- Create new decks with `pptxgenjs` per the skill's gotchas: set
+  `pres.layout` first, 6-digit hex without `#`, fresh option objects
+  (never shared), `margin: 0` on text boxes, native charts via `addChart`.
+- Design per skill principles: bold content-informed palette, dark/light
+  sandwich structure, one repeating visual motif (never accent stripes
+  or title underlines), every slide carries a visual element, vary
+  layouts across slides, safe fonts (Cambria headers + Calibri body).
+- QA with `deckcraft-cli render` on every slide; fix overflow, overlaps,
+  and clipping before delivery. Skill's `validate.py` for file integrity.
+- Test deck proving the toolchain: `demo-pptx-skill-test.pptx` (15 slides).
