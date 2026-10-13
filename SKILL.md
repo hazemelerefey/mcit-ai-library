@@ -74,3 +74,15 @@ Apply in order:
 - Open and judge every figure image yourself before embedding.
 - Open and judge the final output yourself before handing it over.
 - If anything is small, duplicated, or off-theme, fix it before delivery.
+
+### Design assets (VectorCraft)
+- Design real vector assets for heroes, covers, footers, and dividers
+  using VectorCraft (`~/workspace/tools/vectorcraft/`), never weak
+  CSS-only decorations.
+- Asset library lives at `~/workspace/mcit-ai-library/assets/`:
+  `mcit-hero.svg`, `mcit-cover.svg`, `mcit-footer.svg`,
+  `mcit-divider.svg`, `mcit-corner.svg` — all in Platinum Silver.
+- Design in VectorCraft CLI (`vectorcraft-cli run --cmd ... --export`),
+  export SVG + PNG, preview before use.
+- Embed assets in presentations (python-pptx) and reports (WeasyPrint)
+  as real designed artwork.
