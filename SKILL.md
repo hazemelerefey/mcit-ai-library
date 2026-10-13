@@ -88,8 +88,15 @@ Apply in order:
   as real designed artwork.
 
 ### Spreadsheets and dashboards (GridCraft)
-- Build dashboards and data workbooks with GridCraft
-  (`~/workspace/tools/gridcraft/`, CLI `gridcraft-cli`).
-- Style in Platinum Silver: navy headers, steel accents, silver fills.
-- Use real formulas, native charts (`insert.chart`), formatted tables.
-- Dashboard demo: `demo-mcit-dashboard.xlsx`.
+- ALWAYS use GridCraft (`~/workspace/tools/gridcraft/`, CLI `gridcraft-cli`)
+  for dashboards and spreadsheets. Never build dashboard web apps when
+  the user asks for Excel-style dashboards.
+- Design dashboards using `~/workspace/skills/design-dashboards/` principles:
+  KPIs with context (not raw numbers), horizontal bars for ranking,
+  bars not pies, clean vertical layout, restrained color, one accent.
+- Style in Platinum Silver: navy headers (#0A1A2F), steel accents (#5E6B7A).
+- Use real formulas (percentages as =B10/5000), native charts (`insert.chart`),
+  formatted tables with percentage number formats.
+- Set landscape orientation for dashboards. Keep to 3 columns (A:C) max
+  for clean PDF rendering. Verify with LibreOffice PDF export before delivery.
+- Dashboard demo: `demo-people-dashboard.xlsx`.
