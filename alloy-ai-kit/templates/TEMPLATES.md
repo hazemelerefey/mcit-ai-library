@@ -36,8 +36,8 @@ request, and delivers output that matches these references.
 
 | Template | Reference |
 |---|---|
-| 7-page Noir report dark (editable) | `~/workspace/your_files/MCIT-WSIS-Report-Noir-DARK.docx` |
-| 7-page Noir report light (editable) | `~/workspace/your_files/MCIT-WSIS-Report-Noir-LIGHT.docx` |
+| 7-page Noir report dark (editable) | `templates/word/MCIT-WSIS-Report-Noir-DARK.docx` |
+| 7-page Noir report light (editable) | `templates/word/MCIT-WSIS-Report-Noir-LIGHT.docx` |
 
 - Driver: `~/workspace/wsis-deck/build_docx_wordcraft.py`
 - Gotchas: base64 `data=` for pictures (not `path=`); `caret.docEnd`
@@ -73,6 +73,16 @@ request, and delivers output that matches these references.
 - Visual QA: `~/workspace/tools/preview_xls.sh`; charts MUST get
   `chart.changeColors` or they render grayscale
 - Skill: `../../skills/spreadsheet/SKILL.md`
+
+## Fonts
+
+| Font | File | Use |
+|---|---|---|
+| Nohemi Regular | `templates/fonts/Nohemi-Regular.ttf` | Headings |
+| Nohemi Bold | `templates/fonts/Nohemi-Bold.ttf` | Heading emphasis |
+| Nohemi Variable | `templates/fonts/Nohemi-VF.ttf` | Variable weight |
+
+Bundle these with generated outputs so headings render as approved.
 
 ## Tool links (local paths)
 
