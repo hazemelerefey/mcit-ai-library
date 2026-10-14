@@ -50,6 +50,24 @@ below were verified on 2026-10-13.
 - Role: motion graphics and 60fps video. Not a document tool;
   listed so the kit inventory is complete.
 
+### WordCraft — Word documents (editable reports)
+- Version: 0.6.1
+- Path: `~/workspace/tools/wordcraft/wordcraft-0.6.1-linux-x86_64/bin/wordcraft-cli`
+- Repo: https://github.com/storytold/wordcraft
+- Role: main tool for editable Word reports (.docx). Headless `run`
+  executes a `--cmd 'id={json}'` command sequence, then `--save`.
+  `render --page N` QA-checks every page to PNG before delivery.
+- Gotchas (verified 2026-10-14): `insert.picture` with `path=` is
+  broken in headless run — use base64 `data=` instead (keep each
+  arg under ~120KB, MAX_ARG_STRLEN). `text.newParagraph`
+  immediately after `insert.picture` deletes the picture — move the
+  caret first (`caret.docEnd`). `para.borders` is sticky: set it
+  AFTER `text.insert` and clear with `{"kind":"none"}` or it leaks
+  onto every following paragraph. Tab in the last table cell
+  creates a new row — skip the trailing Tab. Tab navigates table
+  cells; `caret.down` exits a table to its trailing paragraph.
+  Driver example: `~/workspace/wsis-deck/build_docx_wordcraft.py`.
+
 ## Figure and artwork tools
 
 ### AntV Infographic — professional figures

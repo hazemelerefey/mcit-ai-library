@@ -37,7 +37,14 @@ workbook.
 5. **Open every sheet.** Check for: stale sheets from earlier
    attempts, broken internal sheet names, charts bound to the wrong
    range, clipped labels.
-6. **Deliver** after full visual review.
+6. **Visual review (Excel-faithful preview).** Render with
+   `~/workspace/tools/preview_xls.sh <file> <prefix>` (LibreOffice
+   headless → PDF → PNG, the closest headless renderer to Excel).
+   CRITICAL: GridCraft writes charts with NO color data by default —
+   they render grayscale. Always run `chart.changeColors` with
+   explicit hex colors right after creating a chart, and re-render
+   to confirm. Read every page PNG before delivery.
+7. **Deliver** after full visual review.
 
 ## Worked example
 
@@ -49,6 +56,34 @@ Verified values: total 5,000; Female 3,800 (76%), Male 1,200 (24%);
 United States 2,400 (48%), Great Britain 1,400 (28%), France 1,200
 (24%); age 20s 2,300 / 30s 1,900 / 40s 500 / 50s 300. Dashboard KPI
 formulas verified: 5,000 · 76.00% · 48.00%.
+
+## General example prompt — organized report table (the Noir pattern)
+
+Use this shape whenever the user wants a professional data table
+(sales report, monthly indicators, any tabular report). It is the
+pattern behind `../../templates/spreadsheet/MCIT-ICT-Monthly-Report-Noir-Template.xlsx`:
+
+> "Build a [REPORT TITLE] spreadsheet. Columns: [label column],
+> [unit column], then one column per [period: months/quarters].
+> End with [computed columns, e.g. MoM % and YoY %] as FORMULAS,
+> never typed values. Style it in [THEME NAME]: page background
+> [bg hex], header row [header hex] with white bold text, banded
+> data rows alternating [row hex] / [alt row hex], body text [text
+> hex], computed columns in [accent hex], negatives in red.
+> Number formats: [e.g. 0.00 for values, 0.00% for growth].
+> Freeze panes below the header. Add a one-line footer explaining
+> how to extend the table."
+
+Agent-as-data-entry contract (tell the agent this explicitly):
+1. The user pastes raw figures in the prompt; the agent enters them
+   into the period columns — that is its data-entry job.
+2. Every computed column is a formula with blank-guards, e.g.
+   `=IF(D5="","",(E5-D5)/D5)`, so new periods compute on entry.
+3. Titles, theme hexes, and column sets are customized per request,
+   but the structure (label, unit, periods, formula columns,
+   frozen header, footer instructions) never changes.
+4. Verify with `gridcraft-cli check` (all formula cells must match)
+   and render with `~/workspace/tools/preview_xls.sh` before delivery.
 
 ## Gotchas
 

@@ -23,11 +23,13 @@ restyling, or extracting content from one.
 - Supporting playbook: `~/workspace/skills/pptx/SKILL.md` (construction
   gotchas, editing existing decks, validation).
 
-## Design tokens (Platinum Silver — approved)
+## Design tokens (Midnight Noir — approved 2026-10-14, derived from the noir hero cover)
 
-- Navy `#0A1A2F` · Steel `#5E6B7A` · Silver `#B9C2CE` · Light `#F4F6F8`
-- Headers: Cambria · Body: Calibri
-- Flat surfaces, hairline borders, restrained type scale
+- Midnight `#010612` · Abyss `#030F1F` · Royal `#1E507A` · Pulse `#16A6E9` · Pale Gold `#F7EF8A` · White `#FFFFFF` · Silver `#B9C2CE`
+- Dark slides by default. One accent per slide: Pulse for data, Pale Gold for premium moments, never both competing.
+- Pale Gold: ornaments and single highlights only, never charts or body text.
+- The gold divider ornament lives in cover backgrounds only, never inside slides. No generic shape slop.
+- Headers/body: Inter · Flat surfaces, hairline borders, restrained type scale
 - Banned: title underlines, edge stripes, slide numbers, gradients,
   gradient text, glassmorphism, glowing pills, purple-blue soup,
   decorative shimmer, generic icon grids
@@ -55,12 +57,16 @@ restyling, or extracting content from one.
 
 ## Worked example
 
-Approved 15-slide test deck: `../../templates/powerpoint/demo-pptx-skill-test.pptx`
-("Applied AI in Production") with `../../templates/powerpoint/DESIGN.md`.
-It demonstrates: Platinum Silver theme, Cambria/Calibri pairing,
-native charts with palette colors, varied layouts, and the
-build → render → fix loop (a clipped contact line on slide 15 was
-caught in QA and fixed before delivery).
+APPROVED templates (Midnight Noir, the current standard):
+`../../templates/powerpoint/MCIT-WSIS-Egypt-30-DARK.pptx` and
+`MCIT-WSIS-Egypt-30-LIGHT.pptx` (30 slides each, WSIS+10 Egypt).
+They demonstrate: Midnight Noir theme, Nohemi titles + Libre Franklin
+body, constant cover art (`../../templates/covers/cover-hero.png` /
+`cover-end.png` — see `../../templates/covers/USAGE.md`), 2x AntV
+figures, one accent per slide, and the build → render → fix loop.
+Builders: `~/workspace/wsis-deck/build_deck.py` (dark),
+`build_deck_light.py` (light). The studio offers a dark/light option;
+both themes share structure, only the palette flips.
 
 ## Gotchas
 
